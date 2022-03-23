@@ -1,1 +1,1 @@
-# S3-localstack-terraform
+# opensearch-localstack-dockercompose
